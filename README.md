@@ -3,7 +3,7 @@ a way to shortcut moomoo.io items
 
 ## Installation
 
-Yarn is required because webpack is garbage and doesnt bump their dependancies
+Yarn is required because webpack is garbage and doesnt bump their dependencies
 
 Install dependancies: `yarn install`
 
