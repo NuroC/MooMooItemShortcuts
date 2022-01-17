@@ -6,5 +6,9 @@ module.exports = [
     {
         key: "v",
         item: "spike"
+    },
+    {
+        key: "c",
+        item: "spike"
     }
 ]
