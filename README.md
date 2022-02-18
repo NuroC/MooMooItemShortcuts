@@ -1,4 +1,4 @@
-# MooMoo.io SHortcuts
+# MooMoo.io Shortcuts
 a way to shortcut moomoo.io items
 
 ## Installation
